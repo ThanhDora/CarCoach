@@ -68,6 +68,8 @@
 
 ```text
 CarCoach/
+├── Packages/                         # Bản đóng gói cài đặt (.ipa đã ký / LiveContainer)
+│   └── CarCoach.app_1.0_1794649228-LC-signed.ipa
 ├── CarCoach.xcodeproj/               # Dự án Xcode (project.xcproj)
 └── CarCoach/
     ├── CarCoachApp.swift             # Điểm khởi chạy ứng dụng & cấu hình SwiftData ModelContainer
@@ -100,6 +102,10 @@ CarCoach/
 
 ## Hướng dẫn cài đặt & Chạy dự án
 
+### Cài đặt nhanh từ gói `.ipa`
+- Tải tệp `CarCoach.app_1.0_1794649228-LC-signed.ipa` trực tiếp tại thư mục [`Packages/`](./Packages/) hoặc trong mục [**Releases (v1.0.0)**](https://github.com/ThanhDora/CarCoach/releases/tag/v1.0.0) để cài đặt qua **LiveContainer** / công cụ Sideload trên iOS & iPadOS 17.0+.
+
+### Biên dịch từ mã nguồn Xcode
 1. **Yêu cầu môi trường**:
    - macOS với **Xcode 27.2+** (hỗ trợ định dạng `project.xcproj`).
    - Thiết bị thật hoặc Simulator chạy **iOS / iPadOS 17.0+**.
