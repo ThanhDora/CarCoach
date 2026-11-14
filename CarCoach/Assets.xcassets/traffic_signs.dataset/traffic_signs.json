@@ -1,0 +1,2185 @@
+[
+  {
+    "id": "P.101",
+    "code": "P.101",
+    "name": "Đường cấm",
+    "category": "prohibition",
+    "summary": "Báo đường cấm các loại phương tiện đi lại cả hai hướng, trừ các xe được ưu tiên theo quy định.",
+    "legalDetail": "Theo QCVN 41:2019/BGTVT, biển P.101 hình tròn, viền đỏ, nền trắng. Cấm tất cả phương tiện cơ giới và thô sơ đi vào đoạn đường đặt biển (trừ xe ưu tiên đang đi làm nhiệm vụ khẩn cấp).",
+    "penaltyNote": "Phạt tiền từ 4.000.000 - 6.000.000 đồng đối với ô tô đi vào đường có biển báo cấm; trừ điểm GPLX theo Nghị định 168/2024/NĐ-CP.",
+    "keywords": [
+      "đường cấm",
+      "cấm đi",
+      "P.101",
+      "xe ưu tiên"
+    ],
+    "relatedQuestionIDs": [
+      301,
+      381,
+      407,
+      560
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.101",
+      "symbol": "NO_ENTRY",
+      "hasSlash": false,
+      "caption": "Đường cấm"
+    }
+  },
+  {
+    "id": "P.102",
+    "code": "P.102",
+    "name": "Cấm đi ngược chiều",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe (cơ giới và thô sơ) đi vào theo chiều đặt biển, trừ các xe ưu tiên theo luật định.",
+    "legalDetail": "Biển P.102 nền đỏ có gạch ngang màu trắng ở giữa. Thường đặt ở đầu đường một chiều hoặc nhánh lối ra cao tốc để ngăn xe đi ngược chiều.",
+    "penaltyNote": "Phạt tiền rất nặng đối với hành vi đi ngược chiều trên đường một chiều hoặc đường có biển P.102 (18.000.000 - 20.000.000 đồng với ô tô).",
+    "keywords": [
+      "cấm đi ngược chiều",
+      "ngược chiều",
+      "P.102",
+      "một chiều"
+    ],
+    "relatedQuestionIDs": [
+      302,
+      382,
+      408,
+      548
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.102",
+      "symbol": "ONE_WAY_PROHIBITED",
+      "hasSlash": false,
+      "caption": "Cấm đi ngược chiều"
+    }
+  },
+  {
+    "id": "P.103a",
+    "code": "P.103a",
+    "name": "Cấm xe ô tô",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe cơ giới kể cả mô tô 3 bánh có thùng đi qua, trừ xe mô tô hai bánh, xe gắn máy và xe ưu tiên.",
+    "legalDetail": "Theo nguyên tắc cấm từ nhỏ đến lớn của QCVN 41:2019, biển P.103a cấm ô tô con đồng thời cấm luôn ô tô tải, ô tô khách, máy kéo và xe máy chuyên dùng.",
+    "penaltyNote": "Ô tô đi vào đường cấm loại xe P.103a bị phạt từ 4.000.000 - 6.000.000 đồng và trừ điểm GPLX.",
+    "keywords": [
+      "cấm ô tô",
+      "cấm xe con",
+      "P.103a",
+      "xe ba bánh"
+    ],
+    "relatedQuestionIDs": [
+      303,
+      304,
+      409,
+      540
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.103a",
+      "symbol": "NO_CAR",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô"
+    }
+  },
+  {
+    "id": "P.103b",
+    "code": "P.103b",
+    "name": "Cấm xe ô tô rẽ phải",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe ô tô và mô tô 3 bánh rẽ phải tại nơi đường giao nhau phía sau biển.",
+    "legalDetail": "Biển P.103b chỉ cấm riêng xe ô tô (kể cả ô tô tải, ô tô khách) rẽ phải; xe mô tô hai bánh, xe gắn máy vẫn được phép rẽ phải bình thường.",
+    "penaltyNote": "Ô tô rẽ phải nơi có biển P.103b bị xử phạt lỗi không chấp hành hiệu lệnh biển báo hiệu đường bộ.",
+    "keywords": [
+      "cấm ô tô rẽ phải",
+      "P.103b",
+      "rẽ phải"
+    ],
+    "relatedQuestionIDs": [
+      305,
+      383
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.103b",
+      "symbol": "NO_CAR_RIGHT",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô rẽ phải"
+    }
+  },
+  {
+    "id": "P.103c",
+    "code": "P.103c",
+    "name": "Cấm xe ô tô rẽ trái",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe ô tô và mô tô 3 bánh rẽ trái tại nơi giao nhau.",
+    "legalDetail": "Lưu ý quan trọng: theo QCVN 41:2019, biển P.103c cấm xe ô tô rẽ trái nhưng KHÔNG cấm ô tô quay đầu xe (trừ khi có biển cấm quay đầu riêng).",
+    "penaltyNote": "Ô tô rẽ trái tại nút giao đặt P.103c bị xử phạt từ 4.000.000 - 6.000.000 đồng nếu đi vào đường cấm.",
+    "keywords": [
+      "cấm ô tô rẽ trái",
+      "P.103c",
+      "quay đầu"
+    ],
+    "relatedQuestionIDs": [
+      306,
+      384
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.103c",
+      "symbol": "NO_CAR_LEFT",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô rẽ trái"
+    }
+  },
+  {
+    "id": "P.104",
+    "code": "P.104",
+    "name": "Cấm xe máy",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe mô tô hai bánh và ba bánh đi qua, trừ xe ưu tiên theo quy định.",
+    "legalDetail": "Biển P.104 chỉ cấm xe mô tô; không cấm xe ô tô và không cấm xe gắn máy (dung tích dưới 50 cm3 hoặc xe máy điện công suất <= 4 kW).",
+    "penaltyNote": "Xe mô tô đi vào đường đặt P.104 bị xử phạt hành chính theo lỗi đi vào khu vực cấm loại phương tiện.",
+    "keywords": [
+      "cấm xe máy",
+      "mô tô",
+      "P.104"
+    ],
+    "relatedQuestionIDs": [
+      307,
+      385,
+      541,
+      544
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.104",
+      "symbol": "NO_MOTO",
+      "hasSlash": true,
+      "caption": "Cấm xe máy"
+    }
+  },
+  {
+    "id": "P.105",
+    "code": "P.105",
+    "name": "Cấm xe ô tô và xe máy",
+    "category": "prohibition",
+    "summary": "Cấm cả hai nhóm phương tiện là xe ô tô và xe mô tô đi qua.",
+    "legalDetail": "Biển P.105 gộp tác dụng của P.103a và P.104, nhưng vẫn cho phép xe gắn máy và xe thô sơ lưu thông nếu không có biển cấm khác.",
+    "penaltyNote": "Phạt tiền người điều khiển ô tô hoặc mô tô vi phạm đi vào đoạn đường đặt biển P.105.",
+    "keywords": [
+      "cấm ô tô và xe máy",
+      "P.105"
+    ],
+    "relatedQuestionIDs": [
+      308,
+      386
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.105",
+      "symbol": "NO_CAR_MOTO",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô và xe máy"
+    }
+  },
+  {
+    "id": "P.106a",
+    "code": "P.106a",
+    "name": "Cấm xe ô tô tải",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe ô tô tải (trừ các xe ưu tiên) và cấm luôn máy kéo, xe máy chuyên dùng đi qua.",
+    "legalDetail": "Biển P.106a cấm ô tô tải có khối lượng chuyên chở > 1,5 tấn trở lên cũng như các xe kéo rơ moóc, nhưng KHÔNG cấm ô tô con và xe khách.",
+    "penaltyNote": "Xe tải đi vào giờ/tuyến đường có biển P.106a bị phạt từ 4.000.000 - 6.000.000 đồng và trừ điểm GPLX.",
+    "keywords": [
+      "cấm xe tải",
+      "P.106a",
+      "máy kéo"
+    ],
+    "relatedQuestionIDs": [
+      309,
+      329,
+      387
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.106a",
+      "symbol": "NO_TRUCK",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô tải"
+    }
+  },
+  {
+    "id": "P.106b",
+    "code": "P.106b",
+    "name": "Cấm xe ô tô tải có khối lượng chuyên chở lớn hơn mức quy định",
+    "category": "prohibition",
+    "summary": "Cấm xe ô tô tải có khối lượng chuyên chở (ghi trong giấy chứng nhận kiểm định) lớn hơn chữ số ghi trên biển.",
+    "legalDetail": "Con số 2,5T hay 3,5T trên biển P.106b là khối lượng hàng chuyên chở theo đăng kiểm, KHÔNG phải tổng trọng lượng xe.",
+    "penaltyNote": "Phạt tiền chủ xe và lái xe tải vượt khối lượng chuyên chở cho phép vào đường cấm.",
+    "keywords": [
+      "cấm tải trọng lượng",
+      "2.5T",
+      "P.106b"
+    ],
+    "relatedQuestionIDs": [
+      310,
+      311,
+      388
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.106b",
+      "symbol": "NO_TRUCK_WEIGHT",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô tải có khối lượng chuyên chở lớn hơn mức quy định"
+    }
+  },
+  {
+    "id": "P.107",
+    "code": "P.107",
+    "name": "Cấm xe ô tô khách và xe ô tô tải",
+    "category": "prohibition",
+    "summary": "Cấm xe ô tô chở khách và xe ô tô tải đi qua, trừ xe ưu tiên.",
+    "legalDetail": "Biển P.107 không cấm xe ô tô con (đến 8 chỗ không kể lái) và xe mô tô hai bánh.",
+    "penaltyNote": "Xe khách và xe tải đi vào đoạn đường đặt P.107 bị phạt đi vào đường cấm.",
+    "keywords": [
+      "cấm xe khách",
+      "cấm xe tải",
+      "P.107"
+    ],
+    "relatedQuestionIDs": [
+      312,
+      389
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.107",
+      "symbol": "NO_BUS_TRUCK",
+      "hasSlash": true,
+      "caption": "Cấm xe ô tô khách và xe ô tô tải"
+    }
+  },
+  {
+    "id": "P.108",
+    "code": "P.108",
+    "name": "Cấm xe kéo rơ moóc",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới kéo theo rơ moóc kể cả ô tô đầu kéo kéo sơ mi rơ moóc.",
+    "legalDetail": "Biển P.108 cấm tổ hợp xe kéo rơ moóc, nhưng không cấm ô tô tải đơn chiếc hoặc ô tô con không kéo moóc.",
+    "penaltyNote": "Phạt người lái tổ hợp xe đầu kéo hoặc xe kéo rơ moóc vi phạm tuyến cấm P.108.",
+    "keywords": [
+      "cấm kéo rơ moóc",
+      "đầu kéo",
+      "P.108"
+    ],
+    "relatedQuestionIDs": [
+      313,
+      390,
+      410
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.108",
+      "symbol": "NO_TRACTOR_TRAILER",
+      "hasSlash": true,
+      "caption": "Cấm xe kéo rơ moóc"
+    }
+  },
+  {
+    "id": "P.115",
+    "code": "P.115",
+    "name": "Hạn chế trọng tải toàn bộ xe",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới và thô sơ kể cả xe ưu tiên có tổng trọng lượng (xe + hàng) vượt quá 10 tấn ghi trên biển.",
+    "legalDetail": "Biển P.115 thường đặt trước cầu yếu hoặc đường đê. Khác với P.106b, con số trên P.115 tính cả bản thân xe và hàng hóa.",
+    "penaltyNote": "Vượt quá tải trọng cầu/đường gây mất an toàn công trình bị phạt tiền rất cao và trừ điểm GPLX.",
+    "keywords": [
+      "hạn chế trọng lượng",
+      "tổng trọng tải",
+      "10T",
+      "P.115"
+    ],
+    "relatedQuestionIDs": [
+      314,
+      391,
+      411
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.115",
+      "symbol": "WEIGHT_LIMIT_10T",
+      "hasSlash": false,
+      "caption": "Hạn chế trọng tải toàn bộ xe"
+    }
+  },
+  {
+    "id": "P.117",
+    "code": "P.117",
+    "name": "Hạn chế chiều cao",
+    "category": "prohibition",
+    "summary": "Cấm các xe có chiều cao toàn bộ (tính từ mặt đường đến điểm cao nhất của xe và hàng) vượt quá 4 m.",
+    "legalDetail": "Thường đặt trước hầm đường bộ, cầu vượt thép hoặc dây điện tĩnh không thấp nhằm tránh va chạm kết cấu phía trên.",
+    "penaltyNote": "Xe quá khổ chiều cao đâm va công trình giao thông phải bồi thường thiệt hại và chịu phạt nặng.",
+    "keywords": [
+      "hạn chế chiều cao",
+      "P.117",
+      "4m"
+    ],
+    "relatedQuestionIDs": [
+      315,
+      392,
+      412
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.117",
+      "symbol": "HEIGHT_LIMIT_4M",
+      "hasSlash": false,
+      "caption": "Hạn chế chiều cao"
+    }
+  },
+  {
+    "id": "P.121",
+    "code": "P.121",
+    "name": "Cự ly tối thiểu giữa hai xe",
+    "category": "prohibition",
+    "summary": "Cấm các xe ô tô chạy cách nhau một cự ly nhỏ hơn trị số 50 m ghi trên biển.",
+    "legalDetail": "Biển P.121 buộc tài xế giữ khoảng cách tối thiểu ngay cả khi chạy chậm qua cầu yếu hoặc trong hầm để tránh dồn tải trọng.",
+    "penaltyNote": "Không giữ khoảng cách an toàn theo biển báo bị xử phạt theo quy định về tuân thủ báo hiệu.",
+    "keywords": [
+      "cự ly tối thiểu",
+      "khoảng cách",
+      "50m",
+      "P.121"
+    ],
+    "relatedQuestionIDs": [
+      316,
+      393,
+      590
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.121",
+      "symbol": "MIN_DISTANCE_50M",
+      "hasSlash": false,
+      "caption": "Cự ly tối thiểu giữa hai xe"
+    }
+  },
+  {
+    "id": "P.123a",
+    "code": "P.123a",
+    "name": "Cấm rẽ trái",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe (cơ giới và thô sơ) rẽ sang phía trái tại nút giao, trừ xe ưu tiên.",
+    "legalDetail": "Theo QCVN 41:2019/BGTVT, biển P.123a chỉ cấm rẽ trái, người lái xe VẪN được phép quay đầu xe nếu không có biển cấm quay đầu.",
+    "penaltyNote": "Rẽ trái nơi đặt biển P.123a bị phạt tiền theo lỗi không chấp hành hiệu lệnh biển báo cấm.",
+    "keywords": [
+      "cấm rẽ trái",
+      "P.123a",
+      "quay đầu"
+    ],
+    "relatedQuestionIDs": [
+      317,
+      394,
+      539
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.123a",
+      "symbol": "NO_LEFT_TURN",
+      "hasSlash": true,
+      "caption": "Cấm rẽ trái"
+    }
+  },
+  {
+    "id": "P.123b",
+    "code": "P.123b",
+    "name": "Cấm rẽ phải",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe (cơ giới và thô sơ) rẽ sang phía phải tại nút giao phía sau biển.",
+    "legalDetail": "Hiệu lực biển P.123b áp dụng tại vị trí đường giao nhau ngay sau biển đối với mọi loại phương tiện.",
+    "penaltyNote": "Không tuân thủ biển cấm rẽ phải bị phạt tiền đối với ô tô từ 4.000.000 - 6.000.000 đồng nếu gây cản trở.",
+    "keywords": [
+      "cấm rẽ phải",
+      "P.123b"
+    ],
+    "relatedQuestionIDs": [
+      318,
+      395
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.123b",
+      "symbol": "NO_RIGHT_TURN",
+      "hasSlash": true,
+      "caption": "Cấm rẽ phải"
+    }
+  },
+  {
+    "id": "P.124a",
+    "code": "P.124a",
+    "name": "Cấm quay đầu xe",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới và thô sơ quay đầu xe (theo kiểu chữ U) nhưng vẫn được phép rẽ trái.",
+    "legalDetail": "Khi gặp biển P.124a, xe không được quay ngược lại hướng vừa đi, song hoàn toàn được rẽ trái vào đường nhánh.",
+    "penaltyNote": "Quay đầu xe tại nơi có biển cấm quay đầu bị phạt tiền và trừ điểm GPLX.",
+    "keywords": [
+      "cấm quay đầu",
+      "P.124a",
+      "được rẽ trái"
+    ],
+    "relatedQuestionIDs": [
+      319,
+      396
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.124a",
+      "symbol": "NO_UTURN",
+      "hasSlash": true,
+      "caption": "Cấm quay đầu xe"
+    }
+  },
+  {
+    "id": "P.124c",
+    "code": "P.124c",
+    "name": "Cấm rẽ trái và quay đầu xe",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe rẽ trái đồng thời cấm quay đầu xe tại nút giao.",
+    "legalDetail": "Biển P.124c kết hợp hai mũi tên gạch chéo cấm cả rẽ trái lẫn quay đầu xe; xe chỉ được đi thẳng hoặc rẽ phải.",
+    "penaltyNote": "Phạt tiền khi rẽ trái hoặc quay đầu tại vị trí có biển P.124c.",
+    "keywords": [
+      "cấm rẽ trái và quay đầu",
+      "P.124c"
+    ],
+    "relatedQuestionIDs": [
+      320,
+      397,
+      413
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.124c",
+      "symbol": "NO_LEFT_UTURN",
+      "hasSlash": true,
+      "caption": "Cấm rẽ trái và quay đầu xe"
+    }
+  },
+  {
+    "id": "P.125",
+    "code": "P.125",
+    "name": "Cấm vượt",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới vượt nhau (kể cả xe ưu tiên theo quy định vẫn cần bảo đảm an toàn, trừ trường hợp được phép vượt xe hai bánh).",
+    "legalDetail": "Biển P.125 cấm tất cả các loại xe cơ giới vượt nhau kể từ nơi đặt biển đến hết đoạn đường cấm (gặp biển DP.133 hoặc DP.135).",
+    "penaltyNote": "Vượt xe tại đoạn đường có biển cấm vượt P.125 bị phạt từ 4.000.000 - 6.000.000 đồng và trừ điểm GPLX.",
+    "keywords": [
+      "cấm vượt",
+      "P.125",
+      "DP.133"
+    ],
+    "relatedQuestionIDs": [
+      321,
+      398,
+      546
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.125",
+      "symbol": "NO_OVERTAKING",
+      "hasSlash": false,
+      "caption": "Cấm vượt"
+    }
+  },
+  {
+    "id": "P.127",
+    "code": "P.127",
+    "name": "Tốc độ tối đa cho phép (50 km/h)",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe cơ giới chạy với tốc độ vượt quá 50 km/h.",
+    "legalDetail": "Biển P.127 có giá trị đến khi gặp biển hết hạn chế tốc độ (P.134) hoặc hết tất cả lệnh cấm (DP.135) hoặc qua khu vực đông dân cư/ngã ba ngã tư không có biển nhắc lại.",
+    "penaltyNote": "Chạy quá tốc độ quy định bị phạt lũy tiến theo mức vượt (5-10, 10-20, 20-35, trên 35 km/h).",
+    "keywords": [
+      "tốc độ tối đa",
+      "50 km/h",
+      "50",
+      "P.127"
+    ],
+    "relatedQuestionIDs": [
+      322,
+      399,
+      564
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.127",
+      "symbol": "SPEED_50",
+      "hasSlash": false,
+      "caption": "Tốc độ tối đa cho phép (50 km/h)"
+    }
+  },
+  {
+    "id": "P.127-60",
+    "code": "P.127-60",
+    "name": "Tốc độ tối đa cho phép (60 km/h)",
+    "category": "prohibition",
+    "summary": "Cấm tất cả các loại xe cơ giới chạy quá tốc độ tối đa 60 km/h trên đoạn đường đặt biển.",
+    "legalDetail": "Thường đặt tại các đoạn đường dẫn vào khu vực đông dân cư, cầu lớn hoặc khúc cua nhằm giảm tốc độ an toàn.",
+    "penaltyNote": "Vi phạm tốc độ vượt trên 20 km/h có thể bị phạt từ 6.000.000 - 8.000.000 đồng trở lên và trừ điểm GPLX.",
+    "keywords": [
+      "tốc độ tối đa",
+      "60 km/h",
+      "60",
+      "P.127-60"
+    ],
+    "relatedQuestionIDs": [
+      323,
+      400
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.127-60",
+      "symbol": "SPEED_60",
+      "hasSlash": false,
+      "caption": "Tốc độ tối đa cho phép (60 km/h)"
+    }
+  },
+  {
+    "id": "P.130",
+    "code": "P.130",
+    "name": "Cấm dừng xe và đỗ xe",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới dừng và đỗ ở phía đường có đặt biển, trừ các xe ưu tiên.",
+    "legalDetail": "Biển P.130 nền xanh, viền đỏ, chữ X màu đỏ gạch chéo. Cấm cả dừng tạm thời có người lái lẫn đỗ xe lâu dài.",
+    "penaltyNote": "Dừng hoặc đỗ xe nơi có biển P.130 bị phạt tiền theo quy định và có thể bị cẩu kéo nếu cản trở giao thông.",
+    "keywords": [
+      "cấm dừng và đỗ",
+      "chữ X đỏ",
+      "P.130"
+    ],
+    "relatedQuestionIDs": [
+      324,
+      401,
+      558
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.130",
+      "symbol": "NO_STOPPING",
+      "hasSlash": true,
+      "caption": "Cấm dừng xe và đỗ xe"
+    }
+  },
+  {
+    "id": "P.131a",
+    "code": "P.131a",
+    "name": "Cấm đỗ xe",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới đỗ ở phía đường đặt biển, nhưng VẪN được phép dừng xe tạm thời để lên xuống người/hàng hóa.",
+    "legalDetail": "Biển P.131a nền xanh viền đỏ, có 1 gạch chéo đỏ duy nhất. Phân biệt với P.130 (2 gạch chéo cấm cả dừng lẫn đỗ).",
+    "penaltyNote": "Đỗ xe (rời khỏi vị trí lái hoặc tắt máy quá thời gian dừng tạm) tại nơi đặt P.131a sẽ bị xử phạt.",
+    "keywords": [
+      "cấm đỗ xe",
+      "1 gạch chéo",
+      "P.131a"
+    ],
+    "relatedQuestionIDs": [
+      402,
+      559
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.131a",
+      "symbol": "NO_PARKING",
+      "hasSlash": true,
+      "caption": "Cấm đỗ xe"
+    }
+  },
+  {
+    "id": "P.131b",
+    "code": "P.131b",
+    "name": "Cấm đỗ xe ngày lẻ",
+    "category": "prohibition",
+    "summary": "Cấm các loại xe cơ giới đỗ ở phía đường đặt biển vào các ngày lẻ trong tháng (1, 3, 5...).",
+    "legalDetail": "Biển P.131b có 1 vạch trắng thẳng đứng cắt ngang gạch chéo đỏ (tượng trưng số I). Được phép dừng xe và được đỗ vào ngày chẵn.",
+    "penaltyNote": "Đỗ xe vào ngày lẻ tại nơi đặt P.131b bị phạt lỗi đỗ xe nơi có biển cấm.",
+    "keywords": [
+      "cấm đỗ ngày lẻ",
+      "P.131b",
+      "I"
+    ],
+    "relatedQuestionIDs": [
+      325,
+      403
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.131b",
+      "symbol": "NO_PARKING_ODD",
+      "hasSlash": true,
+      "caption": "Cấm đỗ xe ngày lẻ"
+    }
+  },
+  {
+    "id": "P.134",
+    "code": "P.134",
+    "name": "Hết hạn chế tốc độ tối đa",
+    "category": "prohibition",
+    "summary": "Báo hiệu hết đoạn đường hạn chế tốc độ tối đa 50 km/h trước đó (P.127).",
+    "legalDetail": "Từ vị trí biển P.134, xe được phép chạy theo tốc độ tối đa chung quy định cho loại đường và loại xe tương ứng.",
+    "penaltyNote": "Tuy hết biển P.127 vẫn phải tuân thủ giới hạn tốc độ chung trong/ngoài khu đông dân cư.",
+    "keywords": [
+      "hết hạn chế tốc độ",
+      "P.134",
+      "gạch đen",
+      "50"
+    ],
+    "relatedQuestionIDs": [
+      326,
+      404
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "P.134",
+      "symbol": "END_SPEED_50",
+      "hasSlash": true,
+      "caption": "Hết hạn chế tốc độ tối đa"
+    }
+  },
+  {
+    "id": "DP.135",
+    "code": "DP.135",
+    "name": "Hết tất cả các lệnh cấm",
+    "category": "prohibition",
+    "summary": "Báo hiệu hết tác dụng của nhiều biển cấm cùng lúc (như cấm vượt, hạn chế tốc độ tối đa, cấm còi...) đã đặt trước đó.",
+    "legalDetail": "Biển DP.135 nền trắng với 5 gạch đen xiên chéo. Không xóa bỏ các lệnh cấm vĩnh viễn tại nút giao sau nó nếu có biển mới.",
+    "penaltyNote": "Sau biển DP.135, người lái xe vẫn phải tuân thủ quy định chung của Luật TTATGTĐB.",
+    "keywords": [
+      "hết tất cả lệnh cấm",
+      "DP.135",
+      "gạch đen"
+    ],
+    "relatedQuestionIDs": [
+      327,
+      328,
+      405
+    ],
+    "diagram": {
+      "kind": "prohibition",
+      "code": "DP.135",
+      "symbol": "END_ALL_PROHIBITIONS",
+      "hasSlash": true,
+      "caption": "Hết tất cả các lệnh cấm"
+    }
+  },
+  {
+    "id": "W.201a",
+    "code": "W.201a",
+    "name": "Chỗ ngoặt nguy hiểm vòng bên trái",
+    "category": "warning",
+    "summary": "Báo trước sắp đến đoạn đường cong gấp vòng sang bên trái, tầm nhìn bị hạn chế.",
+    "legalDetail": "Người lái xe phải chủ động giảm tốc độ trước khi vào đường cong, đi đúng phần đường bên phải và không vượt xe.",
+    "penaltyNote": "Không làm chủ tốc độ hoặc lấn làn, vượt xe tại chỗ ngoặt nguy hiểm tiềm ẩn tai nạn đối đầu và bị phạt nặng.",
+    "keywords": [
+      "chỗ ngoặt nguy hiểm",
+      "vòng trái",
+      "W.201a"
+    ],
+    "relatedQuestionIDs": [
+      331,
+      415,
+      445
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.201a",
+      "symbol": "CURVE_LEFT",
+      "hasSlash": false,
+      "caption": "Chỗ ngoặt nguy hiểm vòng bên trái"
+    }
+  },
+  {
+    "id": "W.201b",
+    "code": "W.201b",
+    "name": "Chỗ ngoặt nguy hiểm vòng bên phải",
+    "category": "warning",
+    "summary": "Báo trước sắp đến chỗ ngoặt nguy hiểm vòng sang bên phải.",
+    "legalDetail": "Giảm tốc độ trước khi vào cua, không phanh gấp giữa đường cong và bám sát làn phải tránh lấn sang làn ngược chiều.",
+    "penaltyNote": "Vượt xe nơi đường vòng tầm nhìn bị che khuất bị phạt từ 4.000.000 - 6.000.000 đồng.",
+    "keywords": [
+      "chỗ ngoặt nguy hiểm",
+      "vòng phải",
+      "W.201b"
+    ],
+    "relatedQuestionIDs": [
+      416,
+      417
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.201b",
+      "symbol": "CURVE_RIGHT",
+      "hasSlash": false,
+      "caption": "Chỗ ngoặt nguy hiểm vòng bên phải"
+    }
+  },
+  {
+    "id": "W.202a",
+    "code": "W.202a",
+    "name": "Nhiều chỗ ngoặt nguy hiểm liên tiếp",
+    "category": "warning",
+    "summary": "Báo trước đoạn đường có từ hai chỗ ngoặt ngược chiều nhau liên tiếp, chỗ ngoặt đầu tiên sang trái.",
+    "legalDetail": "Thường gặp ở đường đèo dốc. Cần đi số thấp, giữ đều tốc độ và tuyệt đối không lấn làn hay cắt cua.",
+    "penaltyNote": "Đi lấn làn hoặc vượt ẩu trên đoạn đường nhiều cua liên tiếp dễ gây tai nạn nghiêm trọng.",
+    "keywords": [
+      "nhiều chỗ ngoặt",
+      "đường đèo",
+      "W.202a"
+    ],
+    "relatedQuestionIDs": [
+      332,
+      418
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.202a",
+      "symbol": "WINDING_ROAD",
+      "hasSlash": false,
+      "caption": "Nhiều chỗ ngoặt nguy hiểm liên tiếp"
+    }
+  },
+  {
+    "id": "W.203a",
+    "code": "W.203a",
+    "name": "Đường bị thu hẹp cả hai bên",
+    "category": "warning",
+    "summary": "Báo trước đoạn đường sắp bị thu hẹp đột ngột ở cả bên trái và bên phải.",
+    "legalDetail": "Giảm tốc độ, quan sát xe đi ngược chiều và nhường đường hợp lý khi qua đoạn đường hẹp.",
+    "penaltyNote": "Lấn chiếm phần đường xe ngược chiều tại đoạn đường hẹp bị xử phạt hành chính.",
+    "keywords": [
+      "đường hẹp",
+      "thu hẹp hai bên",
+      "W.203a"
+    ],
+    "relatedQuestionIDs": [
+      333,
+      419,
+      442,
+      552
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.203a",
+      "symbol": "NARROW_BOTH",
+      "hasSlash": false,
+      "caption": "Đường bị thu hẹp cả hai bên"
+    }
+  },
+  {
+    "id": "W.205a",
+    "code": "W.205a",
+    "name": "Đường giao nhau",
+    "category": "warning",
+    "summary": "Báo trước sắp đến nơi giao nhau đồng cấp của các tuyến đường cùng cấp ở ngoài khu vực nội thành.",
+    "legalDetail": "Tại ngã tư đồng cấp có biển W.205a, các xe tuân thủ quy tắc nhường đường cho xe đi từ bên phải tới (hoặc đi theo vòng xuyến nếu có biển R.303).",
+    "penaltyNote": "Không giảm tốc độ hoặc không nhường đường đúng quy tắc tại nơi giao nhau bị xử phạt nếu gây tai nạn.",
+    "keywords": [
+      "đường giao nhau",
+      "ngã tư đồng cấp",
+      "W.205a"
+    ],
+    "relatedQuestionIDs": [
+      334,
+      420
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.205a",
+      "symbol": "INTERSECTION",
+      "hasSlash": false,
+      "caption": "Đường giao nhau"
+    }
+  },
+  {
+    "id": "W.206",
+    "code": "W.206",
+    "name": "Giao nhau chạy theo vòng xuyến",
+    "category": "warning",
+    "summary": "Báo trước sắp đến nơi đường giao nhau có đảo an toàn bố trí theo vòng xuyến.",
+    "legalDetail": "Biển W.206 hình tam giác viền đỏ nền vàng cảnh báo sắp tới vòng xuyến (khác với biển hiệu lệnh R.303 nền xanh hình tròn).",
+    "penaltyNote": "Giảm tốc độ trước khi vào vòng xuyến và nhường đường cho xe đang đi từ bên trái tới.",
+    "keywords": [
+      "vòng xuyến",
+      "cảnh báo vòng xuyến",
+      "W.206"
+    ],
+    "relatedQuestionIDs": [
+      335,
+      421,
+      443,
+      526
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.206",
+      "symbol": "ROUNDABOUT",
+      "hasSlash": false,
+      "caption": "Giao nhau chạy theo vòng xuyến"
+    }
+  },
+  {
+    "id": "W.207a",
+    "code": "W.207a",
+    "name": "Giao nhau với đường không ưu tiên",
+    "category": "warning",
+    "summary": "Báo trước sắp đến nơi giao nhau với đường không ưu tiên; xe trên hướng đặt biển này được quyền đi trước.",
+    "legalDetail": "Đặt trên tuyến đường ưu tiên ngoài khu đông dân cư. Dù được ưu tiên vẫn phải giảm tốc độ quan sát đề phòng xe từ đường nhánh đi ra.",
+    "penaltyNote": "Xe trên đường nhánh cắt ngang không nhường xe trên đường có biển W.207a sẽ bị xử phạt.",
+    "keywords": [
+      "đường ưu tiên",
+      "giao đường không ưu tiên",
+      "W.207a"
+    ],
+    "relatedQuestionIDs": [
+      336,
+      422,
+      423,
+      446,
+      485,
+      599
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.207a",
+      "symbol": "PRIORITY_ROAD_CROSS",
+      "hasSlash": false,
+      "caption": "Giao nhau với đường không ưu tiên"
+    }
+  },
+  {
+    "id": "W.208",
+    "code": "W.208",
+    "name": "Giao nhau với đường ưu tiên",
+    "category": "warning",
+    "summary": "Báo trước sắp đến đường ưu tiên; mọi phương tiện đi trên đường đặt biển W.208 phải NHƯỜNG ĐƯỜNG cho xe trên đường ưu tiên.",
+    "legalDetail": "Biển tam giác đều lộn ngược đỉnh hướng xuống dưới rất dễ nhận diện kể cả từ phía sau. Phải giảm tốc độ và nhường đường cho tất cả xe trên đường ưu tiên.",
+    "penaltyNote": "Không nhường đường tại nơi giao nhau với đường ưu tiên bị phạt từ 4.000.000 - 6.000.000 đồng nếu gây tai nạn.",
+    "keywords": [
+      "nhường đường",
+      "tam giác ngược",
+      "W.208"
+    ],
+    "relatedQuestionIDs": [
+      337,
+      424,
+      438,
+      502,
+      505
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.208",
+      "symbol": "GIVE_WAY",
+      "hasSlash": false,
+      "caption": "Giao nhau với đường ưu tiên"
+    }
+  },
+  {
+    "id": "W.209",
+    "code": "W.209",
+    "name": "Giao nhau có tín hiệu đèn",
+    "category": "warning",
+    "summary": "Báo trước sắp đến nơi đường giao nhau được điều khiển bằng đèn tín hiệu giao thông.",
+    "legalDetail": "Giúp lái xe chủ động quan sát pha đèn từ xa để phanh giảm tốc an toàn, tránh vượt đèn vàng/đỏ.",
+    "penaltyNote": "Vượt đèn đỏ tại nút giao bị phạt nặng từ 18.000.000 - 20.000.000 đồng đối với ô tô.",
+    "keywords": [
+      "đèn tín hiệu",
+      "giao nhau có đèn",
+      "W.209"
+    ],
+    "relatedQuestionIDs": [
+      339,
+      425,
+      437
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.209",
+      "symbol": "TRAFFIC_LIGHT",
+      "hasSlash": false,
+      "caption": "Giao nhau có tín hiệu đèn"
+    }
+  },
+  {
+    "id": "W.210",
+    "code": "W.210",
+    "name": "Giao nhau với đường sắt có rào chắn",
+    "category": "warning",
+    "summary": "Báo trước sắp đến đoạn giao cắt đồng mức giữa đường bộ và đường sắt có gác chắn.",
+    "legalDetail": "Giảm tốc độ, quan sát đèn báo hiệu, chuông và thanh chắn; khi rào chắn đang dịch chuyển hoặc đã đóng phải dừng cách ray gần nhất tối thiểu 5 m.",
+    "penaltyNote": "Vượt rào chắn đường sắt đang đóng là hành vi vi phạm nghiêm trọng và là câu điểm liệt.",
+    "keywords": [
+      "đường sắt có rào chắn",
+      "hàng rào",
+      "W.210"
+    ],
+    "relatedQuestionIDs": [
+      340,
+      426,
+      439,
+      566,
+      569,
+      570
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.210",
+      "symbol": "RAILWAY_BARRIER",
+      "hasSlash": false,
+      "caption": "Giao nhau với đường sắt có rào chắn"
+    }
+  },
+  {
+    "id": "W.211a",
+    "code": "W.211a",
+    "name": "Giao nhau với đường sắt không có rào chắn",
+    "category": "warning",
+    "summary": "Báo trước sắp đến nơi giao nhau giữa đường bộ và đường sắt KHÔNG có rào chắn, không có người gác.",
+    "legalDetail": "Biển W.211a vẽ hình đầu máy xe lửa. Người lái xe phải giảm tốc độ, tắt âm thanh lớn trong cabin, nhìn cả hai phía và chỉ vượt qua khi chắc chắn không có tàu tới.",
+    "penaltyNote": "Không nhường đường cho phương tiện giao thông đường sắt là lỗi vi phạm đặc biệt nghiêm trọng.",
+    "keywords": [
+      "đường sắt không rào chắn",
+      "tàu hỏa",
+      "W.211a"
+    ],
+    "relatedQuestionIDs": [
+      341,
+      427,
+      440,
+      567,
+      568
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.211a",
+      "symbol": "RAILWAY",
+      "hasSlash": false,
+      "caption": "Giao nhau với đường sắt không có rào chắn"
+    }
+  },
+  {
+    "id": "W.219",
+    "code": "W.219",
+    "name": "Dốc xuống nguy hiểm",
+    "category": "warning",
+    "summary": "Báo trước sắp tới đoạn đường dốc xuống nguy hiểm (có thể kèm trị số độ dốc %).",
+    "legalDetail": "Phải về số thấp để phanh bằng động cơ, kết hợp rà phanh ngắt quãng; tuyệt đối không về số N (mo) hoặc tắt máy để thả trôi.",
+    "penaltyNote": "Tắt máy hoặc về số 0 thả trôi khi xuống dốc dễ mất phanh, gây tai nạn thảm khốc (câu điểm liệt).",
+    "keywords": [
+      "dốc xuống",
+      "độ dốc",
+      "W.219"
+    ],
+    "relatedQuestionIDs": [
+      342,
+      343,
+      444,
+      550,
+      574,
+      576
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.219",
+      "symbol": "STEEP_DESCENT",
+      "hasSlash": false,
+      "caption": "Dốc xuống nguy hiểm"
+    }
+  },
+  {
+    "id": "W.220",
+    "code": "W.220",
+    "name": "Dốc lên nguy hiểm",
+    "category": "warning",
+    "summary": "Báo trước sắp tới đoạn đường dốc lên cao nguy hiểm.",
+    "legalDetail": "Chủ động lấy đà và chuyển về số thấp phù hợp trước khi lên dốc; nhường đường cho xe đang xuống dốc hoặc theo quy tắc đường hẹp.",
+    "penaltyNote": "Dừng đỗ xe ngang dốc không đúng quy định gây cản trở và nguy cơ trôi xe.",
+    "keywords": [
+      "dốc lên",
+      "W.220"
+    ],
+    "relatedQuestionIDs": [
+      428,
+      429,
+      551,
+      575
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.220",
+      "symbol": "STEEP_ASCENT",
+      "hasSlash": false,
+      "caption": "Dốc lên nguy hiểm"
+    }
+  },
+  {
+    "id": "W.222a",
+    "code": "W.222a",
+    "name": "Đường trơn",
+    "category": "warning",
+    "summary": "Báo trước sắp tới đoạn đường có hệ số bám mặt đường thấp, dễ trơn trượt khi trời mưa hoặc có dầu mỡ, bùn đất.",
+    "legalDetail": "Giảm tốc độ, tăng khoảng cách an toàn với xe trước, không đánh lái hoặc phanh gấp đột ngột.",
+    "penaltyNote": "Phóng nhanh gây trượt mất lái đâm va bị xử lý lỗi không làm chủ tốc độ.",
+    "keywords": [
+      "đường trơn",
+      "trơn trượt",
+      "W.222a"
+    ],
+    "relatedQuestionIDs": [
+      344,
+      430,
+      447,
+      577,
+      578,
+      580
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.222a",
+      "symbol": "SLIPPERY",
+      "hasSlash": false,
+      "caption": "Đường trơn"
+    }
+  },
+  {
+    "id": "W.224",
+    "code": "W.224",
+    "name": "Đường người đi bộ cắt ngang",
+    "category": "warning",
+    "summary": "Báo trước sắp tới phần đường dành cho người đi bộ sang ngang.",
+    "legalDetail": "Phải giảm tốc độ, nhường đường cho người đi bộ và người khuyết tật qua đường tại vạch kẻ quy định.",
+    "penaltyNote": "Không giảm tốc độ hoặc không nhường đường cho người đi bộ qua đường bị xử phạt hành chính.",
+    "keywords": [
+      "người đi bộ",
+      "cắt ngang",
+      "W.224"
+    ],
+    "relatedQuestionIDs": [
+      345,
+      431,
+      545
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.224",
+      "symbol": "PEDESTRIAN",
+      "hasSlash": false,
+      "caption": "Đường người đi bộ cắt ngang"
+    }
+  },
+  {
+    "id": "W.225",
+    "code": "W.225",
+    "name": "Trẻ em",
+    "category": "warning",
+    "summary": "Báo trước đoạn đường gần trường học, nhà trẻ, sân chơi thường có trẻ em qua đường hoặc đi sát mép đường.",
+    "legalDetail": "Hết sức chú ý, giảm tốc độ xuống mức an toàn để kịp thời xử lý tình huống trẻ em chạy bất ngờ ra lòng đường.",
+    "penaltyNote": "Chạy quá tốc độ hoặc không giảm tốc qua khu vực trường học gây nguy hiểm cao cho trẻ em.",
+    "keywords": [
+      "trẻ em",
+      "trường học",
+      "W.225"
+    ],
+    "relatedQuestionIDs": [
+      346,
+      432,
+      441,
+      563,
+      592
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.225",
+      "symbol": "CHILDREN",
+      "hasSlash": false,
+      "caption": "Trẻ em"
+    }
+  },
+  {
+    "id": "W.227",
+    "code": "W.227",
+    "name": "Công trường",
+    "category": "warning",
+    "summary": "Báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa, có người và máy móc làm việc.",
+    "legalDetail": "Giảm tốc độ, đi đúng phần đường được phân luồng tạm thời, đề phòng vật liệu xây dựng hoặc xe công trình ra vào.",
+    "penaltyNote": "Vi phạm tốc độ hoặc đâm vào rào chắn công trường bị xử phạt nghiêm.",
+    "keywords": [
+      "công trường",
+      "thi công",
+      "W.227"
+    ],
+    "relatedQuestionIDs": [
+      347,
+      433,
+      448,
+      565
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.227",
+      "symbol": "ROADWORKS",
+      "hasSlash": false,
+      "caption": "Công trường"
+    }
+  },
+  {
+    "id": "W.233",
+    "code": "W.233",
+    "name": "Nguy hiểm khác",
+    "category": "warning",
+    "summary": "Báo hiệu trên đường có những nguy hiểm khác chưa có biển cảnh báo riêng (thường đi kèm biển phụ thuyết minh).",
+    "legalDetail": "Yêu cầu người lái xe hết sức thận trọng, giảm tốc độ và đọc kỹ nội dung biển phụ đi kèm phía dưới.",
+    "penaltyNote": "Không giảm tốc độ chú ý quan sát tại khu vực cảnh báo nguy hiểm dễ dẫn đến tai nạn.",
+    "keywords": [
+      "nguy hiểm khác",
+      "chấm than",
+      "W.233"
+    ],
+    "relatedQuestionIDs": [
+      348,
+      434,
+      582
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.233",
+      "symbol": "DANGER",
+      "hasSlash": false,
+      "caption": "Nguy hiểm khác"
+    }
+  },
+  {
+    "id": "W.240",
+    "code": "W.240",
+    "name": "Đường hầm",
+    "category": "warning",
+    "summary": "Báo trước sắp đi vào đường hầm, nơi ánh sáng thay đổi đột ngột và không gian kín.",
+    "legalDetail": "Xe cơ giới khi chạy trong hầm phải bật đèn chiếu gần (cốt), không vượt xe, không dừng đỗ và tuyệt đối không quay đầu hay lùi xe.",
+    "penaltyNote": "Không bật đèn chiếu gần hoặc quay đầu/lùi xe trong hầm đường bộ bị phạt rất nặng.",
+    "keywords": [
+      "đường hầm",
+      "hầm",
+      "W.240"
+    ],
+    "relatedQuestionIDs": [
+      349,
+      435,
+      571,
+      572,
+      573
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.240",
+      "symbol": "TUNNEL",
+      "hasSlash": false,
+      "caption": "Đường hầm"
+    }
+  },
+  {
+    "id": "W.245a",
+    "code": "W.245a",
+    "name": "Đi chậm",
+    "category": "warning",
+    "summary": "Nhắc lái xe giảm tốc độ đi chậm trước khu vực nguy hiểm, trạm kiểm soát hoặc đoạn đường có tầm nhìn hạn chế.",
+    "legalDetail": "Biển W.245a viết rõ chữ 'ĐI CHẬM' trong khung tam giác vàng viền đỏ.",
+    "penaltyNote": "Không giảm tốc độ dẫn đến mất an toàn sẽ bị xử lý lỗi không giữ tốc độ an toàn.",
+    "keywords": [
+      "đi chậm",
+      "giảm tốc",
+      "W.245a"
+    ],
+    "relatedQuestionIDs": [
+      350,
+      436,
+      583
+    ],
+    "diagram": {
+      "kind": "warning",
+      "code": "W.245a",
+      "symbol": "SLOW_DOWN",
+      "hasSlash": false,
+      "caption": "Đi chậm"
+    }
+  },
+  {
+    "id": "R.122",
+    "code": "R.122",
+    "name": "Dừng lại",
+    "category": "mandatory",
+    "summary": "Buộc tất cả các loại xe (kể cả xe ưu tiên) phải dừng lại trước vạch dừng hoặc trước biển trước khi đi tiếp.",
+    "legalDetail": "Hình bát giác màu đỏ có chữ STOP màu trắng (được xếp vào nhóm hiệu lệnh bắt buộc phải dừng). Chỉ được đi tiếp khi bảo đảm an toàn và nhường hết xe trên đường cắt ngang.",
+    "penaltyNote": "Không dừng lại trước biển STOP R.122 bị xử phạt như lỗi không chấp hành hiệu lệnh chỉ dẫn đường ưu tiên.",
+    "keywords": [
+      "dừng lại",
+      "STOP",
+      "R.122",
+      "bát giác"
+    ],
+    "relatedQuestionIDs": [
+      338,
+      351,
+      449,
+      501,
+      506,
+      508
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.122",
+      "symbol": "STOP",
+      "hasSlash": false,
+      "caption": "Dừng lại"
+    }
+  },
+  {
+    "id": "R.301a",
+    "code": "R.301a",
+    "name": "Các xe chỉ được đi thẳng",
+    "category": "mandatory",
+    "summary": "Hiệu lệnh bắt buộc các xe chỉ được phép đi thẳng ở phạm vi nút giao hoặc đoạn đường sau biển.",
+    "legalDetail": "Đặt trước ngã ba/ngã tư. Biển R.301a hiệu lực trước/tại nút giao: cấm rẽ trái, cấm rẽ phải và cấm quay đầu tại nút giao này (khác R.301d đặt sau).",
+    "penaltyNote": "Rẽ trái hoặc rẽ phải nơi có biển R.301a bị phạt lỗi không chấp hành hiệu lệnh biển báo.",
+    "keywords": [
+      "chỉ đi thẳng",
+      "R.301a",
+      "hiệu lệnh"
+    ],
+    "relatedQuestionIDs": [
+      352
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.301a",
+      "symbol": "STRAIGHT",
+      "hasSlash": false,
+      "caption": "Các xe chỉ được đi thẳng"
+    }
+  },
+  {
+    "id": "R.301b",
+    "code": "R.301b",
+    "name": "Các xe chỉ được rẽ phải",
+    "category": "mandatory",
+    "summary": "Bắt buộc các xe chỉ được rẽ phải tại nút giao phía trước biển.",
+    "legalDetail": "Thường đặt tại đường một chiều hoặc nút giao phân luồng cưỡng bức.",
+    "penaltyNote": "Đi thẳng hoặc rẽ trái nơi đặt R.301b sẽ bị xử phạt hành chính.",
+    "keywords": [
+      "chỉ rẽ phải",
+      "R.301b"
+    ],
+    "relatedQuestionIDs": [
+      450,
+      542
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.301b",
+      "symbol": "TURN_RIGHT",
+      "hasSlash": false,
+      "caption": "Các xe chỉ được rẽ phải"
+    }
+  },
+  {
+    "id": "R.301c",
+    "code": "R.301c",
+    "name": "Các xe chỉ được rẽ trái",
+    "category": "mandatory",
+    "summary": "Bắt buộc các xe chỉ được rẽ trái tại nút giao phía trước biển.",
+    "legalDetail": "Lưu ý: khác với R.301e đặt sau nút giao cho phép quay đầu ở một số giao lộ, theo R.301c mọi xe phải thực hiện rẽ trái theo hướng mũi tên.",
+    "penaltyNote": "Không rẽ theo hướng mũi tên hiệu lệnh R.301c bị xử phạt hành chính.",
+    "keywords": [
+      "chỉ rẽ trái",
+      "R.301c"
+    ],
+    "relatedQuestionIDs": [
+      451
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.301c",
+      "symbol": "TURN_LEFT",
+      "hasSlash": false,
+      "caption": "Các xe chỉ được rẽ trái"
+    }
+  },
+  {
+    "id": "R.301d",
+    "code": "R.301d",
+    "name": "Các xe chỉ được rẽ phải (đặt sau nơi giao nhau)",
+    "category": "mandatory",
+    "summary": "Đặt ngay ở nơi đường giao nhau, buộc các xe chỉ được phép rẽ phải.",
+    "legalDetail": "Thường lắp trên giải phân cách hoặc cột góc đường đối diện luồng xe đi tới để chỉ hướng rẽ bắt buộc.",
+    "penaltyNote": "Đi sai hướng hiệu lệnh tại nút giao bị phạt tiền theo Nghị định 168/2024/NĐ-CP.",
+    "keywords": [
+      "chỉ rẽ phải",
+      "R.301d",
+      "sau nơi giao nhau"
+    ],
+    "relatedQuestionIDs": [
+      353,
+      452
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.301d",
+      "symbol": "TURN_RIGHT_ONLY",
+      "hasSlash": false,
+      "caption": "Các xe chỉ được rẽ phải (đặt sau nơi giao nhau)"
+    }
+  },
+  {
+    "id": "R.301f",
+    "code": "R.301f",
+    "name": "Các xe chỉ được đi thẳng và rẽ phải",
+    "category": "mandatory",
+    "summary": "Bắt buộc các xe tại nút giao chỉ được phép đi thẳng hoặc rẽ phải, cấm rẽ trái và quay đầu.",
+    "legalDetail": "Thường đặt ở nơi cấm rẽ trái nhằm giảm xung đột cắt dòng giao thông đối diện.",
+    "penaltyNote": "Rẽ trái tại nơi đặt R.301f là vi phạm hiệu lệnh biển báo bắt buộc.",
+    "keywords": [
+      "đi thẳng và rẽ phải",
+      "R.301f"
+    ],
+    "relatedQuestionIDs": [
+      354,
+      453
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.301f",
+      "symbol": "STRAIGHT_RIGHT",
+      "hasSlash": false,
+      "caption": "Các xe chỉ được đi thẳng và rẽ phải"
+    }
+  },
+  {
+    "id": "R.302a",
+    "code": "R.302a",
+    "name": "Hướng phải đi vòng chướng ngại vật (sang phải)",
+    "category": "mandatory",
+    "summary": "Bắt buộc các xe phải đi vòng sang phía bên phải để tránh chướng ngại vật hoặc đầu dải phân cách.",
+    "legalDetail": "Thường gắn ở mũi dải phân cách giữa đường hoặc đầu đảo giao thông.",
+    "penaltyNote": "Đi nhầm sang bên trái chướng ngại vật là đi ngược chiều và rất dễ gây tai nạn đối đầu.",
+    "keywords": [
+      "vòng chướng ngại vật",
+      "sang phải",
+      "R.302a"
+    ],
+    "relatedQuestionIDs": [
+      355,
+      454
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.302a",
+      "symbol": "KEEP_RIGHT",
+      "hasSlash": false,
+      "caption": "Hướng phải đi vòng chướng ngại vật (sang phải)"
+    }
+  },
+  {
+    "id": "R.303",
+    "code": "R.303",
+    "name": "Nơi giao nhau chạy theo vòng xuyến",
+    "category": "mandatory",
+    "summary": "Bắt buộc các xe phải chạy vòng theo đảo an toàn ở giữa nút giao theo chiều ngược chiều kim đồng hồ.",
+    "legalDetail": "Khi có biển R.303 hiệu lực, xe chuẩn bị đi vào vòng xuyến phải nhường đường cho xe đã vào trong vòng xuyến đi từ BÊN TRÁI tới.",
+    "penaltyNote": "Không tuân thủ chiều vòng xuyến hoặc không nhường xe từ bên trái tới bị phạt tiền và trừ điểm.",
+    "keywords": [
+      "vòng xuyến",
+      "R.303",
+      "nhường bên trái"
+    ],
+    "relatedQuestionIDs": [
+      356,
+      455,
+      518,
+      520,
+      525
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.303",
+      "symbol": "ROUNDABOUT_CMD",
+      "hasSlash": false,
+      "caption": "Nơi giao nhau chạy theo vòng xuyến"
+    }
+  },
+  {
+    "id": "R.304",
+    "code": "R.304",
+    "name": "Đường dành cho xe thô sơ",
+    "category": "mandatory",
+    "summary": "Báo đường chỉ dành riêng cho xe thô sơ và người đi bộ, cấm các xe cơ giới (kể cả xe gắn máy) đi vào.",
+    "legalDetail": "Đặt ở đầu đoạn đường phân tách riêng làn cho xe đạp, xe thô sơ nhằm bảo đảm an toàn.",
+    "penaltyNote": "Xe ô tô hoặc mô tô đi vào phần đường dành cho xe thô sơ bị phạt nặng.",
+    "keywords": [
+      "xe thô sơ",
+      "R.304"
+    ],
+    "relatedQuestionIDs": [
+      357,
+      456
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.304",
+      "symbol": "NON_MOTOR_ONLY",
+      "hasSlash": false,
+      "caption": "Đường dành cho xe thô sơ"
+    }
+  },
+  {
+    "id": "R.306",
+    "code": "R.306",
+    "name": "Tốc độ tối thiểu cho phép (60 km/h)",
+    "category": "mandatory",
+    "summary": "Bắt buộc các loại xe cơ giới chạy với tốc độ không nhỏ hơn trị số ghi trên biển (trong điều kiện giao thông bình thường).",
+    "legalDetail": "Thường đặt trên đường cao tốc hoặc làn tốc độ cao. Xe có tốc độ thiết kế không đạt mức tối thiểu không được phép đi vào làn này.",
+    "penaltyNote": "Chạy dưới tốc độ tối thiểu cho phép mà không có lý do chính đáng gây cản trở dòng xe sẽ bị xử phạt.",
+    "keywords": [
+      "tốc độ tối thiểu",
+      "60 km/h",
+      "R.306"
+    ],
+    "relatedQuestionIDs": [
+      358,
+      457
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.306",
+      "symbol": "MIN_SPEED_60",
+      "hasSlash": false,
+      "caption": "Tốc độ tối thiểu cho phép (60 km/h)"
+    }
+  },
+  {
+    "id": "R.403a",
+    "code": "R.403a",
+    "name": "Đường dành cho xe ô tô",
+    "category": "mandatory",
+    "summary": "Báo hiệu bắt đầu đoạn đường chỉ dành cho các loại xe ô tô (ô tô con, xe tải, xe khách...) lưu thông.",
+    "legalDetail": "Các phương tiện khác như mô tô, xe gắn máy, xe thô sơ không được phép đi vào phần đường có biển R.403a.",
+    "penaltyNote": "Mô tô đi vào làn/đường dành riêng cho ô tô bị phạt lỗi đi sai phần đường/làn đường quy định.",
+    "keywords": [
+      "đường dành cho ô tô",
+      "R.403a",
+      "phân làn"
+    ],
+    "relatedQuestionIDs": [
+      359,
+      458
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.403a",
+      "symbol": "CAR_ONLY_ROAD",
+      "hasSlash": false,
+      "caption": "Đường dành cho xe ô tô"
+    }
+  },
+  {
+    "id": "R.411",
+    "code": "R.411",
+    "name": "Hướng đi trên mỗi làn đường theo vạch kẻ đường",
+    "category": "mandatory",
+    "summary": "Chỉ dẫn và bắt buộc người lái xe chọn đúng làn đường tương ứng với hướng rẽ hoặc đi thẳng sắp tới.",
+    "legalDetail": "Kết hợp đồng bộ với vạch mũi tên 1.18 vẽ trên mặt đường trước nút giao có đèn tín hiệu.",
+    "penaltyNote": "Đi sai làn theo mũi tên hướng đi (ví dụ đứng làn rẽ trái nhưng đi thẳng) bị phạt lỗi không chấp hành hiệu lệnh vạch kẻ đường/biển báo.",
+    "keywords": [
+      "hướng đi trên làn",
+      "R.411",
+      "chọn làn"
+    ],
+    "relatedQuestionIDs": [
+      360,
+      459,
+      534,
+      538
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.411",
+      "symbol": "LANE_DIRECTION",
+      "hasSlash": false,
+      "caption": "Hướng đi trên mỗi làn đường theo vạch kẻ đường"
+    }
+  },
+  {
+    "id": "R.420",
+    "code": "R.420",
+    "name": "Bắt đầu khu đông dân cư",
+    "category": "mandatory",
+    "summary": "Báo hiệu bắt đầu vào phạm vi khu đông dân cư; từ biển này áp dụng quy định tốc độ trong khu dân cư (50/60 km/h).",
+    "legalDetail": "Biển hình chữ nhật nền trắng hoặc xanh vẽ hình khối nhà đô thị đen; có hiệu lực đối với tất cả các tuyến đường nằm trong ranh giới khu dân cư đến biển R.421.",
+    "penaltyNote": "Chạy quá 50 km/h trên đường hai chiều hoặc 60 km/h trên đường đôi sau biển R.420 sẽ bị phạt lỗi quá tốc độ.",
+    "keywords": [
+      "khu đông dân cư",
+      "R.420",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "relatedQuestionIDs": [
+      361,
+      460,
+      483
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.420",
+      "symbol": "URBAN_START",
+      "hasSlash": false,
+      "caption": "Bắt đầu khu đông dân cư"
+    }
+  },
+  {
+    "id": "R.421",
+    "code": "R.421",
+    "name": "Hết khu đông dân cư",
+    "category": "mandatory",
+    "summary": "Báo hiệu hết phạm vi khu đông dân cư; xe được áp dụng giới hạn tốc độ ngoài khu dân cư.",
+    "legalDetail": "Biển vẽ hình khối nhà đô thị có gạch chéo màu đỏ từ phải sang trái.",
+    "penaltyNote": "Sau biển R.421 vẫn phải tuân thủ giới hạn tốc độ ngoài khu dân cư (80/90 km/h với ô tô con) hoặc biển P.127 riêng nếu có.",
+    "keywords": [
+      "hết khu đông dân cư",
+      "R.421",
+      "gạch đỏ"
+    ],
+    "relatedQuestionIDs": [
+      362,
+      461,
+      484
+    ],
+    "diagram": {
+      "kind": "mandatory",
+      "code": "R.421",
+      "symbol": "URBAN_END",
+      "hasSlash": true,
+      "caption": "Hết khu đông dân cư"
+    }
+  },
+  {
+    "id": "I.401",
+    "code": "I.401",
+    "name": "Bắt đầu đường ưu tiên",
+    "category": "guide",
+    "summary": "Biểu thị đoạn đường đặt biển là đường ưu tiên; các phương tiện đi trên đường này được quyền đi trước tại nơi giao nhau.",
+    "legalDetail": "Biển hình thoi nền vàng viền trắng-đen. Xe từ đường nhánh giao cắt với đường có biển I.401 phải dừng hoặc giảm tốc nhường đường.",
+    "penaltyNote": "Dù đi trên đường ưu tiên I.401, lái xe vẫn phải quan sát và nhường đường cho xe ưu tiên đang phát tín hiệu khẩn cấp.",
+    "keywords": [
+      "đường ưu tiên",
+      "hình thoi",
+      "I.401"
+    ],
+    "relatedQuestionIDs": [
+      363,
+      462,
+      504
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.401",
+      "symbol": "PRIORITY_START",
+      "hasSlash": false,
+      "caption": "Bắt đầu đường ưu tiên"
+    }
+  },
+  {
+    "id": "I.402",
+    "code": "I.402",
+    "name": "Hết đoạn đường ưu tiên",
+    "category": "guide",
+    "summary": "Báo hiệu hết đoạn đường ưu tiên; từ sau biển các nút giao trở lại nguyên tắc nhường đường thông thường hoặc theo biển khác.",
+    "legalDetail": "Biển hình thoi giống I.401 nhưng có gạch chéo đen cắt ngang.",
+    "penaltyNote": "Chú ý giảm tốc độ khi qua các giao lộ sau biển I.402 vì không còn được quyền ưu tiên mặc định.",
+    "keywords": [
+      "hết đường ưu tiên",
+      "I.402"
+    ],
+    "relatedQuestionIDs": [
+      364,
+      463,
+      510
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.402",
+      "symbol": "PRIORITY_END",
+      "hasSlash": true,
+      "caption": "Hết đoạn đường ưu tiên"
+    }
+  },
+  {
+    "id": "I.405a",
+    "code": "I.405a",
+    "name": "Đường cụt",
+    "category": "guide",
+    "summary": "Chỉ dẫn phía trước là đường cụt (rẽ phải vào đường không có lối thông ra tuyến khác).",
+    "legalDetail": "Biển nền xanh vuông có thanh ngang và vạch đỏ chặn ở đầu nhánh đường cụt.",
+    "penaltyNote": "Giúp lái xe chủ động không rẽ vào nhánh cụt gây ùn tắc hoặc khó quay đầu với xe lớn.",
+    "keywords": [
+      "đường cụt",
+      "I.405a"
+    ],
+    "relatedQuestionIDs": [
+      464,
+      594
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.405a",
+      "symbol": "DEAD_END",
+      "hasSlash": false,
+      "caption": "Đường cụt"
+    }
+  },
+  {
+    "id": "I.407a",
+    "code": "I.407a",
+    "name": "Đường một chiều",
+    "category": "guide",
+    "summary": "Chỉ dẫn đoạn đường chỉ cho phép các phương tiện lưu thông theo một chiều nhất định (theo chiều mũi tên thẳng hướng lên).",
+    "legalDetail": "Thường lắp ở đầu tuyến phố một chiều; ở đầu đối diện tuyến này sẽ đặt biển cấm đi ngược chiều P.102.",
+    "penaltyNote": "Cấm quay đầu đi ngược lại hướng mũi tên trên biển I.407a.",
+    "keywords": [
+      "đường một chiều",
+      "I.407a",
+      "mũi tên trắng"
+    ],
+    "relatedQuestionIDs": [
+      365,
+      465,
+      595
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.407a",
+      "symbol": "ONE_WAY_GUIDE",
+      "hasSlash": false,
+      "caption": "Đường một chiều"
+    }
+  },
+  {
+    "id": "I.408",
+    "code": "I.408",
+    "name": "Nơi đỗ xe",
+    "category": "guide",
+    "summary": "Chỉ dẫn khu vực được phép đỗ xe ô tô, xe máy theo quy hoạch giao thông.",
+    "legalDetail": "Biển hình vuông/chữ nhật nền xanh có chữ P màu trắng lớn ở giữa.",
+    "penaltyNote": "Phải đỗ xe đúng hàng lối, trong phạm vi vạch kẻ và không cản trở lối đi bộ/cổng cơ quan.",
+    "keywords": [
+      "nơi đỗ xe",
+      "bãi đỗ",
+      "chữ P",
+      "I.408"
+    ],
+    "relatedQuestionIDs": [
+      466,
+      597
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.408",
+      "symbol": "PARKING",
+      "hasSlash": false,
+      "caption": "Nơi đỗ xe"
+    }
+  },
+  {
+    "id": "I.409",
+    "code": "I.409",
+    "name": "Chỗ quay xe",
+    "category": "guide",
+    "summary": "Chỉ dẫn vị trí trên đường được phép thực hiện thao tác quay đầu xe theo kiểu chữ U.",
+    "legalDetail": "Biển I.409 chỉ cho phép quay đầu xe, KHÔNG cho phép rẽ trái (nếu có đường nhánh bên trái phải tuân thủ biển khác nếu có).",
+    "penaltyNote": "Khi quay đầu tại I.409 phải nhường đường cho xe đi thẳng từ cả hai chiều tới.",
+    "keywords": [
+      "chỗ quay xe",
+      "I.409"
+    ],
+    "relatedQuestionIDs": [
+      366,
+      467
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.409",
+      "symbol": "U_TURN_ZONE",
+      "hasSlash": false,
+      "caption": "Chỗ quay xe"
+    }
+  },
+  {
+    "id": "I.410",
+    "code": "I.410",
+    "name": "Khu vực quay xe",
+    "category": "guide",
+    "summary": "Chỉ dẫn khu vực rộng hơn cho phép các loại xe quay đầu xe an toàn.",
+    "legalDetail": "Biển hình vuông nền xanh vẽ mũi tên vòng cung quay đầu.",
+    "penaltyNote": "Quan sát điểm mù và bật đèn tín hiệu xi-nhan trái trước khi thực hiện quay đầu.",
+    "keywords": [
+      "khu vực quay xe",
+      "I.410"
+    ],
+    "relatedQuestionIDs": [
+      468
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.410",
+      "symbol": "U_TURN_AREA",
+      "hasSlash": false,
+      "caption": "Khu vực quay xe"
+    }
+  },
+  {
+    "id": "I.423a",
+    "code": "I.423a",
+    "name": "Đường người đi bộ sang ngang",
+    "category": "guide",
+    "summary": "Chỉ dẫn vị trí cụ thể có vạch kẻ dành cho người đi bộ qua đường.",
+    "legalDetail": "Khác với biển cảnh báo W.224 (tam giác vàng báo trước từ xa), biển I.423a (hình vuông xanh) đặt ngay tại vị trí vạch đi bộ.",
+    "penaltyNote": "Không nhường đường cho người đi bộ đang bước qua vạch tại I.423a sẽ bị xử phạt hành chính.",
+    "keywords": [
+      "người đi bộ sang ngang",
+      "I.423a"
+    ],
+    "relatedQuestionIDs": [
+      469,
+      591
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.423a",
+      "symbol": "PEDESTRIAN_CROSSING",
+      "hasSlash": false,
+      "caption": "Đường người đi bộ sang ngang"
+    }
+  },
+  {
+    "id": "I.424a",
+    "code": "I.424a",
+    "name": "Cầu vượt qua đường cho người đi bộ",
+    "category": "guide",
+    "summary": "Chỉ dẫn nơi có cầu vượt bộ hành bắc qua đường giao thông lớn.",
+    "legalDetail": "Giúp người đi bộ lựa chọn lối qua đường trên cao an toàn, tránh băng ngang dòng xe tốc độ cao.",
+    "penaltyNote": "Người đi bộ cố tình vượt rào chắn băng ngang đường dưới chân cầu vượt gây mất an toàn sẽ bị xử phạt.",
+    "keywords": [
+      "cầu vượt bộ hành",
+      "I.424a"
+    ],
+    "relatedQuestionIDs": [
+      470
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.424a",
+      "symbol": "PEDESTRIAN_BRIDGE",
+      "hasSlash": false,
+      "caption": "Cầu vượt qua đường cho người đi bộ"
+    }
+  },
+  {
+    "id": "I.426",
+    "code": "I.426",
+    "name": "Bệnh viện",
+    "category": "guide",
+    "summary": "Chỉ dẫn gần nơi có bệnh viện, trạm xá hoặc cơ sở cấp cứu y tế.",
+    "legalDetail": "Biển nền xanh có biểu tượng chữ thập đỏ trên nền trắng. Tài xế cần hạn chế bấm còi và nhường đường cho xe cứu thương.",
+    "penaltyNote": "Bấm còi hơi hoặc gây ồn ào không cần thiết trước khu vực bệnh viện là hành vi bị cấm.",
+    "keywords": [
+      "bệnh viện",
+      "chữ thập",
+      "y tế",
+      "I.426"
+    ],
+    "relatedQuestionIDs": [
+      471,
+      600
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.426",
+      "symbol": "HOSPITAL",
+      "hasSlash": false,
+      "caption": "Bệnh viện"
+    }
+  },
+  {
+    "id": "I.437",
+    "code": "I.437",
+    "name": "Đường cao tốc",
+    "category": "guide",
+    "summary": "Chỉ dẫn bắt đầu đường cao tốc — tuyến đường chỉ dành cho xe ô tô chạy tốc độ cao, không giao cắt đồng mức.",
+    "legalDetail": "Khi thấy biển I.437, xe mô tô, xe gắn máy, xe thô sơ, người đi bộ và xe máy chuyên dùng thiết kế < 70 km/h tuyệt đối không được đi vào.",
+    "penaltyNote": "Cấm lùi xe, quay đầu, đi ngược chiều trên đường cao tốc; vi phạm bị phạt rất nặng (đến 30-40 triệu đồng với đi ngược chiều/lùi trên cao tốc).",
+    "keywords": [
+      "đường cao tốc",
+      "I.437",
+      "cấm xe máy"
+    ],
+    "relatedQuestionIDs": [
+      367,
+      472,
+      584,
+      585,
+      586,
+      587,
+      588
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.437",
+      "symbol": "HIGHWAY",
+      "hasSlash": false,
+      "caption": "Đường cao tốc"
+    }
+  },
+  {
+    "id": "I.438",
+    "code": "I.438",
+    "name": "Hết đường cao tốc",
+    "category": "guide",
+    "summary": "Báo hiệu kết thúc đoạn đường cao tốc, xe chuẩn bị hòa vào hệ thống đường thông thường.",
+    "legalDetail": "Biển I.438 giống I.437 nhưng có vạch đỏ gạch chéo. Tài xế phải giảm tốc độ theo biển báo chuyển tiếp phía trước.",
+    "penaltyNote": "Chú ý kiểm soát lại tốc độ ngay sau khi ra khỏi trạm thu phí hoặc nhánh dẫn hết cao tốc.",
+    "keywords": [
+      "hết đường cao tốc",
+      "I.438"
+    ],
+    "relatedQuestionIDs": [
+      368,
+      473,
+      596
+    ],
+    "diagram": {
+      "kind": "guide",
+      "code": "I.438",
+      "symbol": "HIGHWAY_END",
+      "hasSlash": true,
+      "caption": "Hết đường cao tốc"
+    }
+  },
+  {
+    "id": "S.501",
+    "code": "S.501",
+    "name": "Phạm vi tác dụng của biển",
+    "category": "auxiliary",
+    "summary": "Thông báo chiều dài đoạn đường mà biển chính phía trên có hiệu lực tác dụng (ví dụ 500 m).",
+    "legalDetail": "Biển phụ S.501 có hai mũi tên chỉ lên hai bên con số khoảng cách, cho biết tính chất nguy hiểm hoặc lệnh cấm kéo dài suốt chiều dài ghi trên biển.",
+    "penaltyNote": "Chấp hành biển chính trong suốt phạm vi được ghi trên biển phụ S.501.",
+    "keywords": [
+      "phạm vi tác dụng",
+      "500m",
+      "S.501"
+    ],
+    "relatedQuestionIDs": [
+      369,
+      370,
+      474
+    ],
+    "diagram": {
+      "kind": "auxiliary",
+      "code": "S.501",
+      "symbol": "AUX_LENGTH_500M",
+      "hasSlash": false,
+      "caption": "Phạm vi tác dụng của biển"
+    }
+  },
+  {
+    "id": "S.502",
+    "code": "S.502",
+    "name": "Khoảng cách đến đối tượng báo hiệu",
+    "category": "auxiliary",
+    "summary": "Thông báo khoảng cách thực tế tính từ vị trí đặt biển đến nơi bắt đầu nguy hiểm hay vị trí thực hiện hiệu lệnh (ví dụ 200 m).",
+    "legalDetail": "Biển phụ S.502 chỉ ghi con số khoảng cách (không có hai mũi tên hai bên như S.501).",
+    "penaltyNote": "Chuẩn bị giảm tốc hoặc chuyển làn trước khoảng cách được báo hiệu để không bị động.",
+    "keywords": [
+      "khoảng cách đến",
+      "200m",
+      "S.502"
+    ],
+    "relatedQuestionIDs": [
+      371,
+      475
+    ],
+    "diagram": {
+      "kind": "auxiliary",
+      "code": "S.502",
+      "symbol": "AUX_DISTANCE_200M",
+      "hasSlash": false,
+      "caption": "Khoảng cách đến đối tượng báo hiệu"
+    }
+  },
+  {
+    "id": "S.503a",
+    "code": "S.503a",
+    "name": "Hướng tác dụng của biển",
+    "category": "auxiliary",
+    "summary": "Chỉ rõ hướng rẽ hoặc phía bên đường mà biển cấm/biển chỉ dẫn phía trên có hiệu lực áp dụng.",
+    "legalDetail": "Thường gắn bên dưới biển P.130/P.131a để báo cấm dừng/đỗ từ điểm đặt biển về phía trước hoặc phía sau theo mũi tên.",
+    "penaltyNote": "Quan sát kỹ chiều mũi tên trên S.503a để biết vị trí đứng xe có nằm trong vùng cấm hay không.",
+    "keywords": [
+      "hướng tác dụng",
+      "mũi tên",
+      "S.503a"
+    ],
+    "relatedQuestionIDs": [
+      372,
+      476
+    ],
+    "diagram": {
+      "kind": "auxiliary",
+      "code": "S.503a",
+      "symbol": "AUX_DIRECTION",
+      "hasSlash": false,
+      "caption": "Hướng tác dụng của biển"
+    }
+  },
+  {
+    "id": "S.505a",
+    "code": "S.505a",
+    "name": "Loại xe",
+    "category": "auxiliary",
+    "summary": "Quy định loại phương tiện cụ thể chịu hiệu lực của biển báo chính gắn phía trên (ô tô con, xe tải, xe khách...).",
+    "legalDetail": "Biển phụ S.505a thu hẹp hoặc xác định rõ đối tượng áp dụng thay vì áp dụng cho toàn bộ phương tiện.",
+    "penaltyNote": "Ví dụ biển P.131a kèm S.505a hình xe tải chỉ cấm xe tải đỗ, xe con vẫn có thể được phép đỗ.",
+    "keywords": [
+      "loại xe",
+      "hình xe",
+      "S.505a"
+    ],
+    "relatedQuestionIDs": [
+      330,
+      406
+    ],
+    "diagram": {
+      "kind": "auxiliary",
+      "code": "S.505a",
+      "symbol": "AUX_VEHICLE_TRUCK",
+      "hasSlash": false,
+      "caption": "Loại xe"
+    }
+  },
+  {
+    "id": "S.506a",
+    "code": "S.506a",
+    "name": "Hướng đường ưu tiên",
+    "category": "auxiliary",
+    "summary": "Đặt dưới biển I.401 hoặc W.208 tại nơi giao nhau để chỉ rõ nhánh đường nào rẽ theo hướng đường ưu tiên (nét đậm).",
+    "legalDetail": "Các phương tiện di chuyển dọc theo nhánh nét đậm được quyền ưu tiên đi trước các nhánh nét mảnh.",
+    "penaltyNote": "Quan sát nét vẽ đậm trên S.506a khi giải thế sa hình tại ngã tư có đường ưu tiên đổi hướng.",
+    "keywords": [
+      "hướng đường ưu tiên",
+      "S.506a",
+      "nét đậm"
+    ],
+    "relatedQuestionIDs": [
+      373,
+      477,
+      503
+    ],
+    "diagram": {
+      "kind": "auxiliary",
+      "code": "S.506a",
+      "symbol": "AUX_PRIORITY_TURN",
+      "hasSlash": false,
+      "caption": "Hướng đường ưu tiên"
+    }
+  },
+  {
+    "id": "S.508",
+    "code": "S.508",
+    "name": "Biểu thị thời gian",
+    "category": "auxiliary",
+    "summary": "Quy định khung giờ hoặc các ngày trong tuần mà biển báo chính phía trên phát huy hiệu lực (ví dụ 6h00 - 21h00).",
+    "legalDetail": "Ngoài khung giờ ghi trên biển S.508, lệnh cấm của biển chính tạm thời không áp dụng.",
+    "penaltyNote": "Thường dùng với biển cấm xe tải vào giờ cao điểm tại các đô thị lớn.",
+    "keywords": [
+      "thời gian",
+      "giờ cao điểm",
+      "S.508"
+    ],
+    "relatedQuestionIDs": [
+      374,
+      414
+    ],
+    "diagram": {
+      "kind": "auxiliary",
+      "code": "S.508",
+      "symbol": "AUX_TIME",
+      "hasSlash": false,
+      "caption": "Biểu thị thời gian"
+    }
+  },
+  {
+    "id": "V.1.1",
+    "code": "V.1.1",
+    "name": "Vạch nét đứt màu vàng (phân chia hai chiều)",
+    "category": "marking",
+    "summary": "Vạch đơn nét đứt màu vàng dùng để phân chia hai chiều xe chạy ngược chiều nhau trên đường có 2 hoặc 3 làn xe không có dải phân cách giữa.",
+    "legalDetail": "Các xe ĐƯỢC PHÉP cắt qua vạch này để sử dụng làn ngược chiều từ cả hai phía khi vượt xe hoặc tránh chướng ngại vật bảo đảm an toàn.",
+    "penaltyNote": "Chỉ được vượt qua vạch nét đứt vàng khi phía trước đủ tầm nhìn và không có xe ngược chiều tới gần.",
+    "keywords": [
+      "vạch vàng",
+      "nét đứt",
+      "hai chiều",
+      "V.1.1"
+    ],
+    "relatedQuestionIDs": [
+      375,
+      478
+    ],
+    "diagram": {
+      "kind": "marking",
+      "code": "V.1.1",
+      "symbol": "DASHED_YELLOW_CENTER",
+      "hasSlash": false,
+      "caption": "Vạch nét đứt màu vàng (phân chia hai chiều)"
+    }
+  },
+  {
+    "id": "V.1.2",
+    "code": "V.1.2",
+    "name": "Vạch nét liền màu vàng (phân chia hai chiều)",
+    "category": "marking",
+    "summary": "Vạch đơn nét liền màu vàng phân chia hai chiều xe chạy ngược chiều nhau; KHÔNG ĐƯỢC lấn làn, đè vạch.",
+    "legalDetail": "Thường kẻ tại đoạn đường cong khuất tầm nhìn, đỉnh dốc, cầu hoặc gần nút giao nguy hiểm có 2-3 làn xe.",
+    "penaltyNote": "Đè hoặc vượt qua vạch nét liền màu vàng (lấn làn ngược chiều) bị phạt từ 4.000.000 - 6.000.000 đồng nếu đi sai phần đường.",
+    "keywords": [
+      "vạch vàng",
+      "nét liền",
+      "cấm đè vạch",
+      "V.1.2"
+    ],
+    "relatedQuestionIDs": [
+      376,
+      479,
+      553
+    ],
+    "diagram": {
+      "kind": "marking",
+      "code": "V.1.2",
+      "symbol": "SOLID_YELLOW_CENTER",
+      "hasSlash": false,
+      "caption": "Vạch nét liền màu vàng (phân chia hai chiều)"
+    }
+  },
+  {
+    "id": "V.1.3",
+    "code": "V.1.3",
+    "name": "Vạch đôi nét liền màu vàng (phân chia hai chiều)",
+    "category": "marking",
+    "summary": "Hai vạch song song nét liền màu vàng phân chia hai chiều xe chạy ngược chiều trên đường có từ 4 làn xe trở lên không có dải phân cách giữa.",
+    "legalDetail": "Tuyệt đối cấm mọi phương tiện cắt qua, đè lên vạch ở cả hai hướng để sang phần đường ngược chiều.",
+    "penaltyNote": "Hành vi lấn làn vượt qua vạch đôi nét liền màu vàng bị xử phạt nghiêm như lỗi đi không đúng phần đường quy định.",
+    "keywords": [
+      "vạch đôi vàng",
+      "nét liền",
+      "4 làn",
+      "V.1.3"
+    ],
+    "relatedQuestionIDs": [
+      377,
+      482
+    ],
+    "diagram": {
+      "kind": "marking",
+      "code": "V.1.3",
+      "symbol": "DOUBLE_SOLID_YELLOW",
+      "hasSlash": false,
+      "caption": "Vạch đôi nét liền màu vàng (phân chia hai chiều)"
+    }
+  },
+  {
+    "id": "V.2.1",
+    "code": "V.2.1",
+    "name": "Vạch nét đứt màu trắng (phân chia làn cùng chiều)",
+    "category": "marking",
+    "summary": "Vạch đơn nét đứt màu trắng dùng để phân chia các làn xe chạy CÙNG CHIỀU.",
+    "legalDetail": "Các xe ĐƯỢC PHÉP chuyển làn qua vạch này khi có tín hiệu báo trước (xi-nhan) và bảo đảm khoảng cách an toàn.",
+    "penaltyNote": "Chuyển làn trên đường nhiều làn phải bật đèn tín hiệu xi-nhan và quan sát điểm mù.",
+    "keywords": [
+      "vạch trắng",
+      "nét đứt",
+      "cùng chiều",
+      "V.2.1"
+    ],
+    "relatedQuestionIDs": [
+      378
+    ],
+    "diagram": {
+      "kind": "marking",
+      "code": "V.2.1",
+      "symbol": "DASHED_LINE",
+      "hasSlash": false,
+      "caption": "Vạch nét đứt màu trắng (phân chia làn cùng chiều)"
+    }
+  },
+  {
+    "id": "V.2.2",
+    "code": "V.2.2",
+    "name": "Vạch nét liền màu trắng (phân chia làn cùng chiều)",
+    "category": "marking",
+    "summary": "Vạch đơn nét liền màu trắng phân chia các làn xe chạy cùng chiều trong các khu vực không cho phép chuyển làn.",
+    "legalDetail": "Xe KHÔNG ĐƯỢC phép chuyển làn hoặc sử dụng làn khác bằng cách đè qua vạch trắng nét liền (thường kẻ trước đèn đỏ hoặc trong hầm).",
+    "penaltyNote": "Đè vạch liền màu trắng để chen làn trước ngã tư bị phạt lỗi không chấp hành vạch kẻ đường.",
+    "keywords": [
+      "vạch trắng",
+      "nét liền",
+      "cấm chuyển làn",
+      "V.2.2"
+    ],
+    "relatedQuestionIDs": [
+      379,
+      480,
+      543
+    ],
+    "diagram": {
+      "kind": "marking",
+      "code": "V.2.2",
+      "symbol": "SOLID_LINE",
+      "hasSlash": false,
+      "caption": "Vạch nét liền màu trắng (phân chia làn cùng chiều)"
+    }
+  },
+  {
+    "id": "V.7.3",
+    "code": "V.7.3",
+    "name": "Vạch mắt võng tại khu vực giao nhau",
+    "category": "marking",
+    "summary": "Vạch đan chéo màu vàng (hình mắt võng) dùng để báo cho lái xe KHÔNG ĐƯỢC DỪNG XE trong phạm vi phần mặt đường có bố trí vạch.",
+    "legalDetail": "Nếu phía trước bị ùn tắc có nguy cơ phải dừng lại trong ô mắt võng, lái xe phải dừng chờ trước vạch (những nơi quy định làn rẽ phải có mắt võng thì xe không rẽ không được dừng đè lên).",
+    "penaltyNote": "Dừng xe trên vạch mắt võng gây ùn tắc giao lộ hoặc chắn làn rẽ phải bị phạt lỗi không tuân thủ vạch kẻ đường.",
+    "keywords": [
+      "vạch mắt võng",
+      "V.7.3",
+      "không được dừng"
+    ],
+    "relatedQuestionIDs": [
+      380,
+      481,
+      537
+    ],
+    "diagram": {
+      "kind": "marking",
+      "code": "V.7.3",
+      "symbol": "BOX_JUNCTION",
+      "hasSlash": false,
+      "caption": "Vạch mắt võng tại khu vực giao nhau"
+    }
+  }
+]

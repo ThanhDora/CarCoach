@@ -1,0 +1,130 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : ""
+      }
+    ]
+  },
+  "identifier" : "8D9E24B1-6B4C-4B61-A36A-1001A0010001",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "199000",
+      "familyShareable" : false,
+      "internalID" : "6739000001",
+      "localizations" : [
+        {
+          "description" : "Mở khóa trọn đời không giới hạn thi thử, AI giải thích và lộ trình ôn tập cá nhân hóa.",
+          "displayName" : "CarCoach Premium Trọn đời",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Lifetime access to unlimited mock exams, AI explanations, and personalized roadmap.",
+          "displayName" : "CarCoach Premium Lifetime",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dora.carcoach.premium.lifetime",
+      "referenceName" : "CarCoach Premium Lifetime",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6739000000",
+    "_developerTeamID" : "TKKXD8VA7L",
+    "_failTransactionsEnabled" : false,
+    "_locale" : "vi",
+    "_storefront" : "VNM"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21500001",
+      "localizations" : [
+
+      ],
+      "name" : "CarCoach Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "29000",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6739000002",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Không giới hạn thi thử, AI giải thích từng phương án và lộ trình học thông minh.",
+              "displayName" : "CarCoach Premium Tháng",
+              "locale" : "vi"
+            },
+            {
+              "description" : "Unlimited mock exams, AI option-by-option explanations, and smart study roadmap.",
+              "displayName" : "CarCoach Premium Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.dora.carcoach.premium.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "CarCoach Premium Monthly",
+          "subscriptionGroupID" : "21500001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "129000",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6739000003",
+          "introductoryOffer" : {
+            "internalID" : "6739000004",
+            "paymentMode" : "free",
+            "periodCount" : 1,
+            "unit" : "week"
+          },
+          "localizations" : [
+            {
+              "description" : "Tiết kiệm với gói năm: đầy đủ AI giải thích, không giới hạn đề thi và cập nhật mốc 01/03/2027.",
+              "displayName" : "CarCoach Premium Năm",
+              "locale" : "vi"
+            },
+            {
+              "description" : "Annual plan with unlimited mock exams, AI tutor, and 2027 regulation updates.",
+              "displayName" : "CarCoach Premium Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.dora.carcoach.premium.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "CarCoach Premium Yearly",
+          "subscriptionGroupID" : "21500001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
